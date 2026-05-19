@@ -1,6 +1,6 @@
 # Speed Dating Match Prediction using Random Forest
 
-This project explores whether machine learning can predict romantic matches using the Speed Dating dataset from OpenML. A Random Forest classifier was trained to analyze participant preferences, demographics, and interaction features to predict whether two individuals would result in a match. :contentReference[oaicite:0]{index=0}
+This project explores whether machine learning can predict romantic matches using the Speed Dating dataset from OpenML. A Random Forest classifier was trained to analyze participant preferences, demographics, and interaction features to predict whether two individuals would result in a match.
 
 ## Project Overview
 
